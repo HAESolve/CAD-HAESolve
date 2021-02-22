@@ -1,0 +1,298 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,class
+63,Male,Typical Angina,145,233,TRUE,Left ventricular hypertrophy,150,No,2.3,Downsloping,0,Fixed,0
+67,Male,Asymptomatic,160,286,FALSE,Left ventricular hypertrophy,108,Yes,1.5,Flat,3,Normal,2
+67,Male,Asymptomatic,120,229,FALSE,Left ventricular hypertrophy,129,Yes,2.6,Flat,2,Reversible defect,1
+37,Male,Nonanginal pain,130,250,FALSE,Normal,187,No,3.5,Downsloping,0,Normal,0
+41,Female,Atypical Angina,130,204,FALSE,Left ventricular hypertrophy,172,No,1.4,Unsloping,0,Normal,0
+56,Male,Atypical Angina,120,236,FALSE,Normal,178,No,0.8,Unsloping,0,Normal,0
+62,Female,Asymptomatic,140,268,FALSE,Left ventricular hypertrophy,160,No,3.6,Downsloping,2,Normal,3
+57,Female,Asymptomatic,120,354,FALSE,Normal,163,Yes,0.6,Unsloping,0,Normal,0
+63,Male,Asymptomatic,130,254,FALSE,Left ventricular hypertrophy,147,No,1.4,Flat,1,Reversible defect,2
+53,Male,Asymptomatic,140,203,TRUE,Left ventricular hypertrophy,155,Yes,3.1,Downsloping,0,Reversible defect,1
+57,Male,Asymptomatic,140,192,FALSE,Normal,148,No,0.4,Flat,0,Fixed,0
+56,Female,Atypical Angina,140,294,FALSE,Left ventricular hypertrophy,153,No,1.3,Flat,0,Normal,0
+56,Male,Nonanginal pain,130,256,TRUE,Left ventricular hypertrophy,142,Yes,0.6,Flat,1,Fixed,2
+44,Male,Atypical Angina,120,263,FALSE,Normal,173,No,0,Unsloping,0,Reversible defect,0
+52,Male,Nonanginal pain,172,199,TRUE,Normal,162,No,0.5,Unsloping,0,Reversible defect,0
+57,Male,Nonanginal pain,150,168,FALSE,Normal,174,No,1.6,Unsloping,0,Normal,0
+48,Male,Atypical Angina,110,229,FALSE,Normal,168,No,1,Downsloping,0,Reversible defect,1
+54,Male,Asymptomatic,140,239,FALSE,Normal,160,No,1.2,Unsloping,0,Normal,0
+48,Female,Nonanginal pain,130,275,FALSE,Normal,139,No,0.2,Unsloping,0,Normal,0
+49,Male,Atypical Angina,130,266,FALSE,Normal,171,No,0.6,Unsloping,0,Normal,0
+64,Male,Typical Angina,110,211,FALSE,Left ventricular hypertrophy,144,Yes,1.8,Flat,0,Normal,0
+58,Female,Typical Angina,150,283,TRUE,Left ventricular hypertrophy,162,No,1,Unsloping,0,Normal,0
+58,Male,Atypical Angina,120,284,FALSE,Left ventricular hypertrophy,160,No,1.8,Flat,0,Normal,1
+58,Male,Nonanginal pain,132,224,FALSE,Left ventricular hypertrophy,173,No,3.2,Unsloping,2,Reversible defect,3
+60,Male,Asymptomatic,130,206,FALSE,Left ventricular hypertrophy,132,Yes,2.4,Flat,2,Reversible defect,4
+50,Female,Nonanginal pain,120,219,FALSE,Normal,158,No,1.6,Flat,0,Normal,0
+58,Female,Nonanginal pain,120,340,FALSE,Normal,172,No,0,Unsloping,0,Normal,0
+66,Female,Typical Angina,150,226,FALSE,Normal,114,No,2.6,Downsloping,0,Normal,0
+43,Male,Asymptomatic,150,247,FALSE,Normal,171,No,1.5,Unsloping,0,Normal,0
+40,Male,Asymptomatic,110,167,FALSE,Left ventricular hypertrophy,114,Yes,2,Flat,0,Reversible defect,3
+69,Female,Typical Angina,140,239,FALSE,Normal,151,No,1.8,Unsloping,2,Normal,0
+60,Male,Asymptomatic,117,230,TRUE,Normal,160,Yes,1.4,Unsloping,2,Reversible defect,2
+64,Male,Nonanginal pain,140,335,FALSE,Normal,158,No,0,Unsloping,0,Normal,1
+59,Male,Asymptomatic,135,234,FALSE,Normal,161,No,0.5,Flat,0,Reversible defect,0
+44,Male,Nonanginal pain,130,233,FALSE,Normal,179,Yes,0.4,Unsloping,0,Normal,0
+42,Male,Asymptomatic,140,226,FALSE,Normal,178,No,0,Unsloping,0,Normal,0
+43,Male,Asymptomatic,120,177,FALSE,Left ventricular hypertrophy,120,Yes,2.5,Flat,0,Reversible defect,3
+57,Male,Asymptomatic,150,276,FALSE,Left ventricular hypertrophy,112,Yes,0.6,Flat,1,Fixed,1
+55,Male,Asymptomatic,132,353,FALSE,Normal,132,Yes,1.2,Flat,1,Reversible defect,3
+61,Male,Nonanginal pain,150,243,TRUE,Normal,137,Yes,1,Flat,0,Normal,0
+65,Female,Asymptomatic,150,225,FALSE,Left ventricular hypertrophy,114,No,1,Flat,3,Reversible defect,4
+40,Male,Typical Angina,140,199,FALSE,Normal,178,Yes,1.4,Unsloping,0,Reversible defect,0
+71,Female,Atypical Angina,160,302,FALSE,Normal,162,No,0.4,Unsloping,2,Normal,0
+59,Male,Nonanginal pain,150,212,TRUE,Normal,157,No,1.6,Unsloping,0,Normal,0
+61,Female,Asymptomatic,130,330,FALSE,Left ventricular hypertrophy,169,No,0,Unsloping,0,Normal,1
+58,Male,Nonanginal pain,112,230,FALSE,Left ventricular hypertrophy,165,No,2.5,Flat,1,Reversible defect,4
+51,Male,Nonanginal pain,110,175,FALSE,Normal,123,No,0.6,Unsloping,0,Normal,0
+50,Male,Asymptomatic,150,243,FALSE,Left ventricular hypertrophy,128,No,2.6,Flat,0,Reversible defect,4
+65,Female,Nonanginal pain,140,417,TRUE,Left ventricular hypertrophy,157,No,0.8,Unsloping,1,Normal,0
+53,Male,Nonanginal pain,130,197,TRUE,Left ventricular hypertrophy,152,No,1.2,Downsloping,0,Normal,0
+41,Female,Atypical Angina,105,198,FALSE,Normal,168,No,0,Unsloping,1,Normal,0
+65,Male,Asymptomatic,120,177,FALSE,Normal,140,No,0.4,Unsloping,0,Reversible defect,0
+44,Male,Asymptomatic,112,290,FALSE,Left ventricular hypertrophy,153,No,0,Unsloping,1,Normal,2
+44,Male,Atypical Angina,130,219,FALSE,Left ventricular hypertrophy,188,No,0,Unsloping,0,Normal,0
+60,Male,Asymptomatic,130,253,FALSE,Normal,144,Yes,1.4,Unsloping,1,Reversible defect,1
+54,Male,Asymptomatic,124,266,FALSE,Left ventricular hypertrophy,109,Yes,2.2,Flat,1,Reversible defect,1
+50,Male,Nonanginal pain,140,233,FALSE,Normal,163,No,0.6,Flat,1,Reversible defect,1
+41,Male,Asymptomatic,110,172,FALSE,Left ventricular hypertrophy,158,No,0,Unsloping,0,Reversible defect,1
+54,Male,Nonanginal pain,125,273,FALSE,Left ventricular hypertrophy,152,No,0.5,Downsloping,1,Normal,0
+51,Male,Typical Angina,125,213,FALSE,Left ventricular hypertrophy,125,Yes,1.4,Unsloping,1,Normal,0
+51,Female,Asymptomatic,130,305,FALSE,Normal,142,Yes,1.2,Flat,0,Reversible defect,2
+46,Female,Nonanginal pain,142,177,FALSE,Left ventricular hypertrophy,160,Yes,1.4,Downsloping,0,Normal,0
+58,Male,Asymptomatic,128,216,FALSE,Left ventricular hypertrophy,131,Yes,2.2,Flat,3,Reversible defect,1
+54,Female,Nonanginal pain,135,304,TRUE,Normal,170,No,0,Unsloping,0,Normal,0
+54,Male,Asymptomatic,120,188,FALSE,Normal,113,No,1.4,Flat,1,Reversible defect,2
+60,Male,Asymptomatic,145,282,FALSE,Left ventricular hypertrophy,142,Yes,2.8,Flat,2,Reversible defect,2
+60,Male,Nonanginal pain,140,185,FALSE,Left ventricular hypertrophy,155,No,3,Flat,0,Normal,1
+54,Male,Nonanginal pain,150,232,FALSE,Left ventricular hypertrophy,165,No,1.6,Unsloping,0,Reversible defect,0
+59,Male,Asymptomatic,170,326,FALSE,Left ventricular hypertrophy,140,Yes,3.4,Downsloping,0,Reversible defect,2
+46,Male,Nonanginal pain,150,231,FALSE,Normal,147,No,3.6,Flat,0,Normal,1
+65,Female,Nonanginal pain,155,269,FALSE,Normal,148,No,0.8,Unsloping,0,Normal,0
+67,Male,Asymptomatic,125,254,TRUE,Normal,163,No,0.2,Flat,2,Reversible defect,3
+62,Male,Asymptomatic,120,267,FALSE,Normal,99,Yes,1.8,Flat,2,Reversible defect,1
+65,Male,Asymptomatic,110,248,FALSE,Left ventricular hypertrophy,158,No,0.6,Unsloping,2,Fixed,1
+44,Male,Asymptomatic,110,197,FALSE,Left ventricular hypertrophy,177,No,0,Unsloping,1,Normal,1
+65,Female,Nonanginal pain,160,360,FALSE,Left ventricular hypertrophy,151,No,0.8,Unsloping,0,Normal,0
+60,Male,Asymptomatic,125,258,FALSE,Left ventricular hypertrophy,141,Yes,2.8,Flat,1,Reversible defect,1
+51,Female,Nonanginal pain,140,308,FALSE,Left ventricular hypertrophy,142,No,1.5,Unsloping,1,Normal,0
+48,Male,Atypical Angina,130,245,FALSE,Left ventricular hypertrophy,180,No,0.2,Flat,0,Normal,0
+58,Male,Asymptomatic,150,270,FALSE,Left ventricular hypertrophy,111,Yes,0.8,Unsloping,0,Reversible defect,3
+45,Male,Asymptomatic,104,208,FALSE,Left ventricular hypertrophy,148,Yes,3,Flat,0,Normal,0
+53,Female,Asymptomatic,130,264,FALSE,Left ventricular hypertrophy,143,No,0.4,Flat,0,Normal,0
+39,Male,Nonanginal pain,140,321,FALSE,Left ventricular hypertrophy,182,No,0,Unsloping,0,Normal,0
+68,Male,Nonanginal pain,180,274,TRUE,Left ventricular hypertrophy,150,Yes,1.6,Flat,0,Reversible defect,3
+52,Male,Atypical Angina,120,325,FALSE,Normal,172,No,0.2,Unsloping,0,Normal,0
+44,Male,Nonanginal pain,140,235,FALSE,Left ventricular hypertrophy,180,No,0,Unsloping,0,Normal,0
+47,Male,Nonanginal pain,138,257,FALSE,Left ventricular hypertrophy,156,No,0,Unsloping,0,Normal,0
+53,Female,Asymptomatic,138,234,FALSE,Left ventricular hypertrophy,160,No,0,Unsloping,0,Normal,0
+51,Female,Nonanginal pain,130,256,FALSE,Left ventricular hypertrophy,149,No,0.5,Unsloping,0,Normal,0
+66,Male,Asymptomatic,120,302,FALSE,Left ventricular hypertrophy,151,No,0.4,Flat,0,Normal,0
+62,Female,Asymptomatic,160,164,FALSE,Left ventricular hypertrophy,145,No,6.2,Downsloping,3,Reversible defect,3
+62,Male,Nonanginal pain,130,231,FALSE,Normal,146,No,1.8,Flat,3,Reversible defect,0
+44,Female,Nonanginal pain,108,141,FALSE,Normal,175,No,0.6,Flat,0,Normal,0
+63,Female,Nonanginal pain,135,252,FALSE,Left ventricular hypertrophy,172,No,0,Unsloping,0,Normal,0
+52,Male,Asymptomatic,128,255,FALSE,Normal,161,Yes,0,Unsloping,1,Reversible defect,1
+59,Male,Asymptomatic,110,239,FALSE,Left ventricular hypertrophy,142,Yes,1.2,Flat,1,Reversible defect,2
+60,Female,Asymptomatic,150,258,FALSE,Left ventricular hypertrophy,157,No,2.6,Flat,2,Reversible defect,3
+52,Male,Atypical Angina,134,201,FALSE,Normal,158,No,0.8,Unsloping,1,Normal,0
+48,Male,Asymptomatic,122,222,FALSE,Left ventricular hypertrophy,186,No,0,Unsloping,0,Normal,0
+45,Male,Asymptomatic,115,260,FALSE,Left ventricular hypertrophy,185,No,0,Unsloping,0,Normal,0
+34,Male,Typical Angina,118,182,FALSE,Left ventricular hypertrophy,174,No,0,Unsloping,0,Normal,0
+57,Female,Asymptomatic,128,303,FALSE,Left ventricular hypertrophy,159,No,0,Unsloping,1,Normal,0
+71,Female,Nonanginal pain,110,265,TRUE,Left ventricular hypertrophy,130,No,0,Unsloping,1,Normal,0
+49,Male,Nonanginal pain,120,188,FALSE,Normal,139,No,2,Flat,3,Reversible defect,3
+54,Male,Atypical Angina,108,309,FALSE,Normal,156,No,0,Unsloping,0,Reversible defect,0
+59,Male,Asymptomatic,140,177,FALSE,Normal,162,Yes,0,Unsloping,1,Reversible defect,2
+57,Male,Nonanginal pain,128,229,FALSE,Left ventricular hypertrophy,150,No,0.4,Flat,1,Reversible defect,1
+61,Male,Asymptomatic,120,260,FALSE,Normal,140,Yes,3.6,Flat,1,Reversible defect,2
+39,Male,Asymptomatic,118,219,FALSE,Normal,140,No,1.2,Flat,0,Reversible defect,3
+61,Female,Asymptomatic,145,307,FALSE,Left ventricular hypertrophy,146,Yes,1,Flat,0,Reversible defect,1
+56,Male,Asymptomatic,125,249,TRUE,Left ventricular hypertrophy,144,Yes,1.2,Flat,1,Normal,1
+52,Male,Typical Angina,118,186,FALSE,Left ventricular hypertrophy,190,No,0,Flat,0,Fixed,0
+43,Female,Asymptomatic,132,341,TRUE,Left ventricular hypertrophy,136,Yes,3,Flat,0,Reversible defect,2
+62,Female,Nonanginal pain,130,263,FALSE,Normal,97,No,1.2,Flat,1,Reversible defect,2
+41,Male,Atypical Angina,135,203,FALSE,Normal,132,No,0,Flat,0,Fixed,0
+58,Male,Nonanginal pain,140,211,TRUE,Left ventricular hypertrophy,165,No,0,Unsloping,0,Normal,0
+35,Female,Asymptomatic,138,183,FALSE,Normal,182,No,1.4,Unsloping,0,Normal,0
+63,Male,Asymptomatic,130,330,TRUE,Left ventricular hypertrophy,132,Yes,1.8,Unsloping,3,Reversible defect,3
+65,Male,Asymptomatic,135,254,FALSE,Left ventricular hypertrophy,127,No,2.8,Flat,1,Reversible defect,2
+48,Male,Asymptomatic,130,256,TRUE,Left ventricular hypertrophy,150,Yes,0,Unsloping,2,Reversible defect,3
+63,Female,Asymptomatic,150,407,FALSE,Left ventricular hypertrophy,154,No,4,Flat,3,Reversible defect,4
+51,Male,Nonanginal pain,100,222,FALSE,Normal,143,Yes,1.2,Flat,0,Normal,0
+55,Male,Asymptomatic,140,217,FALSE,Normal,111,Yes,5.6,Downsloping,0,Reversible defect,3
+65,Male,Typical Angina,138,282,TRUE,Left ventricular hypertrophy,174,No,1.4,Flat,1,Normal,1
+45,Female,Atypical Angina,130,234,FALSE,Left ventricular hypertrophy,175,No,0.6,Flat,0,Normal,0
+56,Female,Asymptomatic,200,288,TRUE,Left ventricular hypertrophy,133,Yes,4,Downsloping,2,Reversible defect,3
+54,Male,Asymptomatic,110,239,FALSE,Normal,126,Yes,2.8,Flat,1,Reversible defect,3
+44,Male,Atypical Angina,120,220,FALSE,Normal,170,No,0,Unsloping,0,Normal,0
+62,Female,Asymptomatic,124,209,FALSE,Normal,163,No,0,Unsloping,0,Normal,0
+54,Male,Nonanginal pain,120,258,FALSE,Left ventricular hypertrophy,147,No,0.4,Flat,0,Reversible defect,0
+51,Male,Nonanginal pain,94,227,FALSE,Normal,154,Yes,0,Unsloping,1,Reversible defect,0
+29,Male,Atypical Angina,130,204,FALSE,Left ventricular hypertrophy,202,No,0,Unsloping,0,Normal,0
+51,Male,Asymptomatic,140,261,FALSE,Left ventricular hypertrophy,186,Yes,0,Unsloping,0,Normal,0
+43,Female,Nonanginal pain,122,213,FALSE,Normal,165,No,0.2,Flat,0,Normal,0
+55,Female,Atypical Angina,135,250,FALSE,Left ventricular hypertrophy,161,No,1.4,Flat,0,Normal,0
+70,Male,Asymptomatic,145,174,FALSE,Normal,125,Yes,2.6,Downsloping,0,Reversible defect,4
+62,Male,Atypical Angina,120,281,FALSE,Left ventricular hypertrophy,103,No,1.4,Flat,1,Reversible defect,3
+35,Male,Asymptomatic,120,198,FALSE,Normal,130,Yes,1.6,Flat,0,Reversible defect,1
+51,Male,Nonanginal pain,125,245,TRUE,Left ventricular hypertrophy,166,No,2.4,Flat,0,Normal,0
+59,Male,Atypical Angina,140,221,FALSE,Normal,164,Yes,0,Unsloping,0,Normal,0
+59,Male,Typical Angina,170,288,FALSE,Left ventricular hypertrophy,159,No,0.2,Flat,0,Reversible defect,1
+52,Male,Atypical Angina,128,205,TRUE,Normal,184,No,0,Unsloping,0,Normal,0
+64,Male,Nonanginal pain,125,309,FALSE,Normal,131,Yes,1.8,Flat,0,Reversible defect,1
+58,Male,Nonanginal pain,105,240,FALSE,Left ventricular hypertrophy,154,Yes,0.6,Flat,0,Reversible defect,0
+47,Male,Nonanginal pain,108,243,FALSE,Normal,152,No,0,Unsloping,0,Normal,1
+57,Male,Asymptomatic,165,289,TRUE,Left ventricular hypertrophy,124,No,1,Flat,3,Reversible defect,4
+41,Male,Nonanginal pain,112,250,FALSE,Normal,179,No,0,Unsloping,0,Normal,0
+45,Male,Atypical Angina,128,308,FALSE,Left ventricular hypertrophy,170,No,0,Unsloping,0,Normal,0
+60,Female,Nonanginal pain,102,318,FALSE,Normal,160,No,0,Unsloping,1,Normal,0
+52,Male,Typical Angina,152,298,TRUE,Normal,178,No,1.2,Flat,0,Reversible defect,0
+42,Female,Asymptomatic,102,265,FALSE,Left ventricular hypertrophy,122,No,0.6,Flat,0,Normal,0
+67,Female,Nonanginal pain,115,564,FALSE,Left ventricular hypertrophy,160,No,1.6,Flat,0,Reversible defect,0
+55,Male,Asymptomatic,160,289,FALSE,Left ventricular hypertrophy,145,Yes,0.8,Flat,1,Reversible defect,4
+64,Male,Asymptomatic,120,246,FALSE,Left ventricular hypertrophy,96,Yes,2.2,Downsloping,1,Normal,3
+70,Male,Asymptomatic,130,322,FALSE,Left ventricular hypertrophy,109,No,2.4,Flat,3,Normal,1
+51,Male,Asymptomatic,140,299,FALSE,Normal,173,Yes,1.6,Unsloping,0,Reversible defect,1
+58,Male,Asymptomatic,125,300,FALSE,Left ventricular hypertrophy,171,No,0,Unsloping,2,Reversible defect,1
+60,Male,Asymptomatic,140,293,FALSE,Left ventricular hypertrophy,170,No,1.2,Flat,2,Reversible defect,2
+68,Male,Nonanginal pain,118,277,FALSE,Normal,151,No,1,Unsloping,1,Reversible defect,0
+46,Male,Atypical Angina,101,197,TRUE,Normal,156,No,0,Unsloping,0,Reversible defect,0
+77,Male,Asymptomatic,125,304,FALSE,Left ventricular hypertrophy,162,Yes,0,Unsloping,3,Normal,4
+54,Female,Nonanginal pain,110,214,FALSE,Normal,158,No,1.6,Flat,0,Normal,0
+58,Female,Asymptomatic,100,248,FALSE,Left ventricular hypertrophy,122,No,1,Flat,0,Normal,0
+48,Male,Nonanginal pain,124,255,TRUE,Normal,175,No,0,Unsloping,2,Normal,0
+57,Male,Asymptomatic,132,207,FALSE,Normal,168,Yes,0,Unsloping,0,Reversible defect,0
+54,Female,Atypical Angina,132,288,TRUE,Left ventricular hypertrophy,159,Yes,0,Unsloping,1,Normal,0
+35,Male,Asymptomatic,126,282,FALSE,Left ventricular hypertrophy,156,Yes,0,Unsloping,0,Reversible defect,1
+45,Female,Atypical Angina,112,160,FALSE,Normal,138,No,0,Flat,0,Normal,0
+70,Male,Nonanginal pain,160,269,FALSE,Normal,112,Yes,2.9,Flat,1,Reversible defect,3
+53,Male,Asymptomatic,142,226,FALSE,Left ventricular hypertrophy,111,Yes,0,Unsloping,0,Reversible defect,0
+59,Female,Asymptomatic,174,249,FALSE,Normal,143,Yes,0,Flat,0,Normal,1
+62,Female,Asymptomatic,140,394,FALSE,Left ventricular hypertrophy,157,No,1.2,Flat,0,Normal,0
+64,Male,Asymptomatic,145,212,FALSE,Left ventricular hypertrophy,132,No,2,Flat,2,Fixed,4
+57,Male,Asymptomatic,152,274,FALSE,Normal,88,Yes,1.2,Flat,1,Reversible defect,1
+52,Male,Asymptomatic,108,233,TRUE,Normal,147,No,0.1,Unsloping,3,Reversible defect,0
+56,Male,Asymptomatic,132,184,FALSE,Left ventricular hypertrophy,105,Yes,2.1,Flat,1,Fixed,1
+43,Male,Nonanginal pain,130,315,FALSE,Normal,162,No,1.9,Unsloping,1,Normal,0
+53,Male,Nonanginal pain,130,246,TRUE,Left ventricular hypertrophy,173,No,0,Unsloping,3,Normal,0
+48,Male,Asymptomatic,124,274,FALSE,Left ventricular hypertrophy,166,No,0.5,Flat,0,Reversible defect,3
+56,Female,Asymptomatic,134,409,FALSE,Left ventricular hypertrophy,150,Yes,1.9,Flat,2,Reversible defect,2
+42,Male,Typical Angina,148,244,FALSE,Left ventricular hypertrophy,178,No,0.8,Unsloping,2,Normal,0
+59,Male,Typical Angina,178,270,FALSE,Left ventricular hypertrophy,145,No,4.2,Downsloping,0,Reversible defect,0
+60,Female,Asymptomatic,158,305,FALSE,Left ventricular hypertrophy,161,No,0,Unsloping,0,Normal,1
+63,Female,Atypical Angina,140,195,FALSE,Normal,179,No,0,Unsloping,2,Normal,0
+42,Male,Nonanginal pain,120,240,TRUE,Normal,194,No,0.8,Downsloping,0,Reversible defect,0
+66,Male,Atypical Angina,160,246,FALSE,Normal,120,Yes,0,Flat,3,Fixed,2
+54,Male,Atypical Angina,192,283,FALSE,Left ventricular hypertrophy,195,No,0,Unsloping,1,Reversible defect,1
+69,Male,Nonanginal pain,140,254,FALSE,Left ventricular hypertrophy,146,No,2,Flat,3,Reversible defect,2
+50,Male,Nonanginal pain,129,196,FALSE,Normal,163,No,0,Unsloping,0,Normal,0
+51,Male,Asymptomatic,140,298,FALSE,Normal,122,Yes,4.2,Flat,3,Reversible defect,3
+62,Female,Asymptomatic,138,294,TRUE,Normal,106,No,1.9,Flat,3,Normal,2
+68,Female,Nonanginal pain,120,211,FALSE,Left ventricular hypertrophy,115,No,1.5,Flat,0,Normal,0
+67,Male,Asymptomatic,100,299,FALSE,Left ventricular hypertrophy,125,Yes,0.9,Flat,2,Normal,3
+69,Male,Typical Angina,160,234,TRUE,Left ventricular hypertrophy,131,No,0.1,Flat,1,Normal,0
+45,Female,Asymptomatic,138,236,FALSE,Left ventricular hypertrophy,152,Yes,0.2,Flat,0,Normal,0
+50,Female,Atypical Angina,120,244,FALSE,Normal,162,No,1.1,Unsloping,0,Normal,0
+59,Male,Typical Angina,160,273,FALSE,Left ventricular hypertrophy,125,No,0,Unsloping,0,Normal,1
+50,Female,Asymptomatic,110,254,FALSE,Left ventricular hypertrophy,159,No,0,Unsloping,0,Normal,0
+64,Female,Asymptomatic,180,325,FALSE,Normal,154,Yes,0,Unsloping,0,Normal,0
+57,Male,Nonanginal pain,150,126,TRUE,Normal,173,No,0.2,Unsloping,1,Reversible defect,0
+64,Female,Nonanginal pain,140,313,FALSE,Normal,133,No,0.2,Unsloping,0,Reversible defect,0
+43,Male,Asymptomatic,110,211,FALSE,Normal,161,No,0,Unsloping,0,Reversible defect,0
+45,Male,Asymptomatic,142,309,FALSE,Left ventricular hypertrophy,147,Yes,0,Flat,3,Reversible defect,3
+58,Male,Asymptomatic,128,259,FALSE,Left ventricular hypertrophy,130,Yes,3,Flat,2,Reversible defect,3
+50,Male,Asymptomatic,144,200,FALSE,Left ventricular hypertrophy,126,Yes,0.9,Flat,0,Reversible defect,3
+55,Male,Atypical Angina,130,262,FALSE,Normal,155,No,0,Unsloping,0,Normal,0
+62,Female,Asymptomatic,150,244,FALSE,Normal,154,Yes,1.4,Flat,0,Normal,1
+37,Female,Nonanginal pain,120,215,FALSE,Normal,170,No,0,Unsloping,0,Normal,0
+38,Male,Typical Angina,120,231,FALSE,Normal,182,Yes,3.8,Flat,0,Reversible defect,4
+41,Male,Nonanginal pain,130,214,FALSE,Left ventricular hypertrophy,168,No,2,Flat,0,Normal,0
+66,Female,Asymptomatic,178,228,TRUE,Normal,165,Yes,1,Flat,2,Reversible defect,3
+52,Male,Asymptomatic,112,230,FALSE,Normal,160,No,0,Unsloping,1,Normal,1
+56,Male,Typical Angina,120,193,FALSE,Left ventricular hypertrophy,162,No,1.9,Flat,0,Reversible defect,0
+46,Female,Atypical Angina,105,204,FALSE,Normal,172,No,0,Unsloping,0,Normal,0
+46,Female,Asymptomatic,138,243,FALSE,Left ventricular hypertrophy,152,Yes,0,Flat,0,Normal,0
+64,Female,Asymptomatic,130,303,FALSE,Normal,122,No,2,Flat,2,Normal,0
+59,Male,Asymptomatic,138,271,FALSE,Left ventricular hypertrophy,182,No,0,Unsloping,0,Normal,0
+41,Female,Nonanginal pain,112,268,FALSE,Left ventricular hypertrophy,172,Yes,0,Unsloping,0,Normal,0
+54,Female,Nonanginal pain,108,267,FALSE,Left ventricular hypertrophy,167,No,0,Unsloping,0,Normal,0
+39,Female,Nonanginal pain,94,199,FALSE,Normal,179,No,0,Unsloping,0,Normal,0
+53,Male,Asymptomatic,123,282,FALSE,Normal,95,Yes,2,Flat,2,Reversible defect,3
+63,Female,Asymptomatic,108,269,FALSE,Normal,169,Yes,1.8,Flat,2,Normal,1
+34,Female,Atypical Angina,118,210,FALSE,Normal,192,No,0.7,Unsloping,0,Normal,0
+47,Male,Asymptomatic,112,204,FALSE,Normal,143,No,0.1,Unsloping,0,Normal,0
+67,Female,Nonanginal pain,152,277,FALSE,Normal,172,No,0,Unsloping,1,Normal,0
+54,Male,Asymptomatic,110,206,FALSE,Left ventricular hypertrophy,108,Yes,0,Flat,1,Normal,3
+66,Male,Asymptomatic,112,212,FALSE,Left ventricular hypertrophy,132,Yes,0.1,Unsloping,1,Normal,2
+52,Female,Nonanginal pain,136,196,FALSE,Left ventricular hypertrophy,169,No,0.1,Flat,0,Normal,0
+55,Female,Asymptomatic,180,327,FALSE,Having ST-T wave abnormal,117,Yes,3.4,Flat,0,Normal,2
+49,Male,Nonanginal pain,118,149,FALSE,Left ventricular hypertrophy,126,No,0.8,Unsloping,3,Normal,1
+74,Female,Atypical Angina,120,269,FALSE,Left ventricular hypertrophy,121,Yes,0.2,Unsloping,1,Normal,0
+54,Female,Nonanginal pain,160,201,FALSE,Normal,163,No,0,Unsloping,1,Normal,0
+54,Male,Asymptomatic,122,286,FALSE,Left ventricular hypertrophy,116,Yes,3.2,Flat,2,Normal,3
+56,Male,Asymptomatic,130,283,TRUE,Left ventricular hypertrophy,103,Yes,1.6,Downsloping,0,Reversible defect,2
+46,Male,Asymptomatic,120,249,FALSE,Left ventricular hypertrophy,144,No,0.8,Unsloping,0,Reversible defect,1
+49,Female,Atypical Angina,134,271,FALSE,Normal,162,No,0,Flat,0,Normal,0
+42,Male,Atypical Angina,120,295,FALSE,Normal,162,No,0,Unsloping,0,Normal,0
+41,Male,Atypical Angina,110,235,FALSE,Normal,153,No,0,Unsloping,0,Normal,0
+41,Female,Atypical Angina,126,306,FALSE,Normal,163,No,0,Unsloping,0,Normal,0
+49,Female,Asymptomatic,130,269,FALSE,Normal,163,No,0,Unsloping,0,Normal,0
+61,Male,Typical Angina,134,234,FALSE,Normal,145,No,2.6,Flat,2,Normal,2
+60,Female,Nonanginal pain,120,178,TRUE,Normal,96,No,0,Unsloping,0,Normal,0
+67,Male,Asymptomatic,120,237,FALSE,Normal,71,No,1,Flat,0,Normal,2
+58,Male,Asymptomatic,100,234,FALSE,Normal,156,No,0.1,Unsloping,1,Reversible defect,2
+47,Male,Asymptomatic,110,275,FALSE,Left ventricular hypertrophy,118,Yes,1,Flat,1,Normal,1
+52,Male,Asymptomatic,125,212,FALSE,Normal,168,No,1,Unsloping,2,Reversible defect,3
+62,Male,Atypical Angina,128,208,TRUE,Left ventricular hypertrophy,140,No,0,Unsloping,0,Normal,0
+57,Male,Asymptomatic,110,201,FALSE,Normal,126,Yes,1.5,Flat,0,Fixed,0
+58,Male,Asymptomatic,146,218,FALSE,Normal,105,No,2,Flat,1,Reversible defect,1
+64,Male,Asymptomatic,128,263,FALSE,Normal,105,Yes,0.2,Flat,1,Reversible defect,0
+51,Female,Nonanginal pain,120,295,FALSE,Left ventricular hypertrophy,157,No,0.6,Unsloping,0,Normal,0
+43,Male,Asymptomatic,115,303,FALSE,Normal,181,No,1.2,Flat,0,Normal,0
+42,Female,Nonanginal pain,120,209,FALSE,Normal,173,No,0,Flat,0,Normal,0
+67,Female,Asymptomatic,106,223,FALSE,Normal,142,No,0.3,Unsloping,2,Normal,0
+76,Female,Nonanginal pain,140,197,FALSE,Having ST-T wave abnormal,116,No,1.1,Flat,0,Normal,0
+70,Male,Atypical Angina,156,245,FALSE,Left ventricular hypertrophy,143,No,0,Unsloping,0,Normal,0
+57,Male,Atypical Angina,124,261,FALSE,Normal,141,No,0.3,Unsloping,0,Reversible defect,1
+44,Female,Nonanginal pain,118,242,FALSE,Normal,149,No,0.3,Flat,1,Normal,0
+58,Female,Atypical Angina,136,319,TRUE,Left ventricular hypertrophy,152,No,0,Unsloping,2,Normal,3
+60,Female,Typical Angina,150,240,FALSE,Normal,171,No,0.9,Unsloping,0,Normal,0
+44,Male,Nonanginal pain,120,226,FALSE,Normal,169,No,0,Unsloping,0,Normal,0
+61,Male,Asymptomatic,138,166,FALSE,Left ventricular hypertrophy,125,Yes,3.6,Flat,1,Normal,4
+42,Male,Asymptomatic,136,315,FALSE,Normal,125,Yes,1.8,Flat,0,Fixed,2
+59,Male,Nonanginal pain,126,218,TRUE,Normal,134,No,2.2,Flat,1,Fixed,2
+40,Male,Asymptomatic,152,223,FALSE,Normal,181,No,0,Unsloping,0,Reversible defect,1
+42,Male,Nonanginal pain,130,180,FALSE,Normal,150,No,0,Unsloping,0,Normal,0
+61,Male,Asymptomatic,140,207,FALSE,Left ventricular hypertrophy,138,Yes,1.9,Unsloping,1,Reversible defect,1
+66,Male,Asymptomatic,160,228,FALSE,Left ventricular hypertrophy,138,No,2.3,Unsloping,0,Fixed,0
+46,Male,Asymptomatic,140,311,FALSE,Normal,120,Yes,1.8,Flat,2,Reversible defect,2
+71,Female,Asymptomatic,112,149,FALSE,Normal,125,No,1.6,Flat,0,Normal,0
+59,Male,Typical Angina,134,204,FALSE,Normal,162,No,0.8,Unsloping,2,Normal,1
+64,Male,Typical Angina,170,227,FALSE,Left ventricular hypertrophy,155,No,0.6,Flat,0,Reversible defect,0
+66,Female,Nonanginal pain,146,278,FALSE,Left ventricular hypertrophy,152,No,0,Flat,1,Normal,0
+39,Female,Nonanginal pain,138,220,FALSE,Normal,152,No,0,Flat,0,Normal,0
+57,Male,Atypical Angina,154,232,FALSE,Left ventricular hypertrophy,164,No,0,Unsloping,1,Normal,1
+58,Female,Asymptomatic,130,197,FALSE,Normal,131,No,0.6,Flat,0,Normal,0
+57,Male,Asymptomatic,110,335,FALSE,Normal,143,Yes,3,Flat,1,Reversible defect,2
+47,Male,Nonanginal pain,130,253,FALSE,Normal,179,No,0,Unsloping,0,Normal,0
+55,Female,Asymptomatic,128,205,FALSE,Having ST-T wave abnormal,130,Yes,2,Flat,1,Reversible defect,3
+35,Male,Atypical Angina,122,192,FALSE,Normal,174,No,0,Unsloping,0,Normal,0
+61,Male,Asymptomatic,148,203,FALSE,Normal,161,No,0,Unsloping,1,Reversible defect,2
+58,Male,Asymptomatic,114,318,FALSE,Having ST-T wave abnormal,140,No,4.4,Downsloping,3,Fixed,4
+58,Female,Asymptomatic,170,225,TRUE,Left ventricular hypertrophy,146,Yes,2.8,Flat,2,Fixed,2
+56,Male,Atypical Angina,130,221,FALSE,Left ventricular hypertrophy,163,No,0,Unsloping,0,Reversible defect,0
+56,Male,Atypical Angina,120,240,FALSE,Normal,169,No,0,Downsloping,0,Normal,0
+67,Male,Nonanginal pain,152,212,FALSE,Left ventricular hypertrophy,150,No,0.8,Flat,0,Reversible defect,1
+55,Female,Atypical Angina,132,342,FALSE,Normal,166,No,1.2,Unsloping,0,Normal,0
+44,Male,Asymptomatic,120,169,FALSE,Normal,144,Yes,2.8,Downsloping,0,Fixed,2
+63,Male,Asymptomatic,140,187,FALSE,Left ventricular hypertrophy,144,Yes,4,Unsloping,2,Reversible defect,2
+63,Female,Asymptomatic,124,197,FALSE,Normal,136,Yes,0,Flat,0,Normal,1
+41,Male,Atypical Angina,120,157,FALSE,Normal,182,No,0,Unsloping,0,Normal,0
+59,Male,Asymptomatic,164,176,TRUE,Left ventricular hypertrophy,90,No,1,Flat,2,Fixed,3
+57,Female,Asymptomatic,140,241,FALSE,Normal,123,Yes,0.2,Flat,0,Reversible defect,1
+45,Male,Typical Angina,110,264,FALSE,Normal,132,No,1.2,Flat,0,Reversible defect,1
+68,Male,Asymptomatic,144,193,TRUE,Normal,141,No,3.4,Flat,2,Reversible defect,2
+57,Male,Asymptomatic,130,131,FALSE,Normal,115,Yes,1.2,Flat,1,Reversible defect,3
+57,Female,Atypical Angina,130,236,FALSE,Left ventricular hypertrophy,174,No,0,Flat,1,Normal,1
